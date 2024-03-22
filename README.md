@@ -16,6 +16,9 @@
 
 - ---
   <br/>
-  <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebas122005&show_icons=true&locale=en&layout=compact" alt="Sebas122005" /></p>
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas122005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
