@@ -1,11 +1,11 @@
-# <h1 align= center> (👉ﾟヮﾟ)👉 Sebastian Cortez </h1>
+<h1 align=center> 👾👨‍💻 Sebastian Cortez ✨ </h1
 
 <p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFE0&center=true&width=435&lines=Full-Stack+Developer;Backend+Developer;Database+Administrator;Android+Developer" alt="Typing SVG" /></a></p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFE0&center=true&width=435&lines=Full-Stack+Developer;WordPress%2FPrestaShop+Dev;Database+Administrator;Web3+Developer" alt="Typing SVG" /></a></p>
 
-<p align=center>Hello! I am an Information Technology professional with experience in developing ERP systems, e-commerce platforms, and Android mobile applications. I have continued to learn and improve my skills, and I am now looking for new challenges to grow in the tech world.</p>
+<p align=center>Hey! I'm an independent programmer with 2 years of experience in web and custom solutions. I'm now focused on building my path in the Web3 space with Python and looking to collaborate on innovative projects.</p>
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Sebastian_Cortez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-cortez-cotos)
+- [![Linkedin Badge](https://img.shields.io/badge/-Sebastian_Cortez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastian-cortez-cotos)
 
 
 ### <h3 align=center> 🧰 Languages and Tools </h3>
