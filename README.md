@@ -8,7 +8,13 @@
 
 <p align=center>Hey! I'm an independent programmer with 2 years of experience in web and custom solutions. I'm now focused on building my path in the Web3 space with Python and looking to collaborate on innovative projects.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastián_Edu_Cortez_Cotos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastian-cortez-cotos) [![Instagram Badge](https://img.shields.io/badge/-Sebastian_Cortez-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiancortez.05) [![X Badge](https://img.shields.io/badge/-Sebastian_Cortez-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/sebastiancc_12) [![Platzi Badge](https://img.shields.io/badge/-Sebastian_Cortez_Cotos-97C93E?style=flat&labelColor=97C93E&logo=platzi&logoColor=white)](https://platzi.com/p/Sebas_12/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-cortez-cotos) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiancortez.05) 
+[![X Badge](https://img.shields.io/badge/-X(Twiter)-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/sebastiancc_12) 
+[![Platzi Badge](https://img.shields.io/badge/-Platzi-97C93E?style=flat&labelColor=97C93E&logo=platzi&logoColor=white)](https://platzi.com/p/Sebas_12/) 
+[![CódigoFacilito Badge](https://img.shields.io/badge/-CódigoFacilito-106560?style=flat&labelColor=106560&logo=codigofacilito&logoColor=white)](https://codigofacilito.com/usuarios/Sebastian_Cortez?section=cursos_completados)
+
+
 
 
 ### <h3 align=center> 🧰 Languages and Tools </h3>
